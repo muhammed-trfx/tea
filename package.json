@@ -2,7 +2,7 @@
   "name": "bottus",
   "version": "1.1.4",
   "description": "A whatsapp User bot",
-  "main": "./WhatsAsenaDuplicated/bot.js",
+  "main": "./bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
